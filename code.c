@@ -6,5 +6,7 @@ int main(){
     }
 
     printf("Hi this is fawaz!);
+    printf("Hey sameera here!");
+
     return 0;
 }
