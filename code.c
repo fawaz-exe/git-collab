@@ -12,5 +12,6 @@ int main(){
     printf("hi this is asim");
     printf("Hi this is Maaz!");
     printf("Hey sameera here");
+    printf ("hey its khulud");
     return 0;
 }
